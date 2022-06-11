@@ -222,6 +222,7 @@ Modal
   color: var(--clr-white);
   border-color: transparent;
   cursor: pointer;
+  width: 2rem;
 }
 .prev-btn {
   left: -2.5rem;
